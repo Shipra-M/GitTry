@@ -8,8 +8,10 @@ public static void main(String []args) {
 	int number = input.nextInt();
 	input.close();
 	System.out.println("The square of your number is: "+ number*number);
-	//Adding this here
-	System.out.println("The cube of your number is: " + number*number*number); 
+	//Adding this here from github
+	System.out.println("The cube of your number is: " + number*number*number);
+	//Adding this here from eclipse
+	System.out.println("The half of your number is: " + number/2);
 	
 }
 }
