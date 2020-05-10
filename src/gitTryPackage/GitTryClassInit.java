@@ -12,6 +12,7 @@ public static void main(String []args) {
 	System.out.println("The cube of your number is: " + number*number*number);
 	//Adding this here from eclipse
 	System.out.println("The half of your number is: " + number/2);
+	//Day 2 - Fiddling with Jenkins today
 	
 }
 }
